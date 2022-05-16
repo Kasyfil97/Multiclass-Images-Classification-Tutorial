@@ -1,0 +1,2 @@
+# Multiclass-Images-Classification-Tutorial
+This is tutorial to make images classification for multiclass. In this tutorial, I used fruit images data from Kaggle. You can download the dataset in this link : https://www.kaggle.com/datasets/mbkinaci/fruit-images-for-object-detection?datasetId=34662&amp;sortBy=voteCount. The dataset consists of four images class: apple, banana, mixed, and orange. I used simple model images classification with tensorflow
